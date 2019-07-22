@@ -16,6 +16,7 @@
 		3DA6A9F922E629600010861B /* MBPersonSearchTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DA6A9F822E629600010861B /* MBPersonSearchTableViewController.m */; };
 		3DA6A9FC22E629A30010861B /* MBPerson.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DA6A9FB22E629A30010861B /* MBPerson.m */; };
 		3DA6A9FF22E62BFD0010861B /* PersonTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DA6A9FE22E62BFD0010861B /* PersonTableViewCell.swift */; };
+		3DA6AA0122E630DC0010861B /* PersonController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DA6AA0022E630DC0010861B /* PersonController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		3DA6A9FB22E629A30010861B /* MBPerson.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MBPerson.m; sourceTree = "<group>"; };
 		3DA6A9FD22E62BFD0010861B /* Hybrid-StarWarsSearch-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Hybrid-StarWarsSearch-Bridging-Header.h"; sourceTree = "<group>"; };
 		3DA6A9FE22E62BFD0010861B /* PersonTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonTableViewCell.swift; sourceTree = "<group>"; };
+		3DA6AA0022E630DC0010861B /* PersonController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				3DA6A9F522E6292C0010861B /* Main.storyboard */,
 				3DA6A9FE22E62BFD0010861B /* PersonTableViewCell.swift */,
 				3DA6A9FA22E629A30010861B /* MBPerson.h */,
+				3DA6AA0022E630DC0010861B /* PersonController.swift */,
 				3DA6A9FB22E629A30010861B /* MBPerson.m */,
 				3DA6A9F722E629600010861B /* MBPersonSearchTableViewController.h */,
 				3DA6A9F822E629600010861B /* MBPersonSearchTableViewController.m */,
@@ -162,6 +165,7 @@
 				3DA6A9F922E629600010861B /* MBPersonSearchTableViewController.m in Sources */,
 				3DA6A9EF22E628400010861B /* main.m in Sources */,
 				3DA6A9FC22E629A30010861B /* MBPerson.m in Sources */,
+				3DA6AA0122E630DC0010861B /* PersonController.swift in Sources */,
 				3DA6A9E122E6283E0010861B /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
